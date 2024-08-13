@@ -1,0 +1,27 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+@media only screen and (max-width: 578px){
+    body{
+        background-color: #DBE2EF;
+    }
+}
+
+
+
+html, body {
+    height: 100%;
+}
+
+body {
+    justify-content: space-between;
+    color: #112D4E;
+}
+
+#home{
+    align-items: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline;
+}
